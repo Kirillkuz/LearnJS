@@ -1,0 +1,1 @@
+Остановился на https://learn.javascript.ru/object
